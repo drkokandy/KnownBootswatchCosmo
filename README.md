@@ -6,6 +6,4 @@ Really, I just wanted my Known site to look a little more like my main website. 
 
 A significant portion of the PHP was just taken from one of the default themes and modified slightly.
 
-I'm not sure why the avatar is not to the left of each post. I thought it would be.
-
 Please file issues or bug reports if found.
